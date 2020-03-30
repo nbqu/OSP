@@ -1,3 +1,7 @@
 This is a text file for OSP_lab02.
 local file MODIFY
+<<<<<<< master
 BRANCH 01 : file modification for MERGE
+=======
+BRANCH 02 : file modification for REBASE
+>>>>>>> branch_02 : 1st modification
