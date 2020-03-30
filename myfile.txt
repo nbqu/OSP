@@ -1,2 +1,3 @@
 This is a text file for OSP_lab02.
 local file MODIFY
+BRANCH 01 : file modification for MERGE
