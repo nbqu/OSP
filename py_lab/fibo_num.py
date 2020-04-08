@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 n = int(input("fibonacci number? : "))
 fib = [0, 1, 1]
 for i in range(3, n+1):
